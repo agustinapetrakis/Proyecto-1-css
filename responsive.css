@@ -1,0 +1,564 @@
+@media (max-width:1249px){
+
+#header{
+    width: 100%;
+}
+    #banner{
+        width: 90%;
+        margin: 5%;
+        
+    }
+    #cards{
+        margin-left: 7%;
+    }
+    .card{
+        float: center;
+        width: 16%;
+        margin:1%;
+        margin-left: 5px;
+    }
+    footer{
+      width: 100%;
+    }
+    #footer .wrap >div{
+        width: 23%;
+        margin:5%
+    }
+    #footer #browsers img{
+        width: 10%;
+    }
+    #footer h5{
+        font-size: 30px;
+    }
+}
+@media (max-width:1220px){
+    #banner{
+        width: 95%;
+        margin: 1.2%;
+
+    }
+}
+@media (max-width:1220px){
+#login input[type="submit"],
+#login input[type="button"],
+#login input[type="reset"],
+#login button{
+    width: 35%;
+    margin-left: 25px;
+}
+}
+#blog{
+    width: 62%;
+}
+footer{
+    width: 100%;
+  }
+  #footer .wrap >div{
+      width: 25%;
+      margin:4%
+  }
+  
+@media (max-width:1214px){
+    #banner{
+        width: 96%;
+        margin: 1%;
+    }
+    #banner h1{
+        font-size: 32px;
+        text-align: center;
+        margin: 30px auto;
+
+    }
+    .card{
+        width: 16%;
+    }
+}
+@media (max-width:1196px){
+    #header{
+        width: 100%;
+    }
+    #banner h1{
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    #banner{
+          width: 90%;
+          margin-left: 60px;
+    }
+    .card p{
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+        width: 85%;
+    }
+}
+@media (max-width:1142px){
+    #banner{
+        width: 93%;
+        margin-left: 30px auto;
+        margin-left: 30px;
+    }
+    #search input[type="button"]{
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    #lateral input[type="text"]{
+        width: 220px;
+        margin-left: 9px;
+    }
+    #cards{
+        width: 96%;
+
+        margin: 30px auto;
+    }
+    .card{
+        margin-left: 30px;
+    }
+}
+@media (max-width:1130px){
+    #articles .bloque{
+        width: 55%;
+    }
+    #blog{
+        width: 57%;
+    }
+}
+@media (max-width:1112px){
+    .card{
+        margin: 20px auto;
+        width: 15%;
+        margin-left: 50px;
+    }
+    #cards{
+        margin-left: 20px;
+    }
+    .card .category{
+        font-size: 19px;
+    }
+    .card .description{
+        font-size: 15px;
+    }
+    #lateral{
+        display: block;
+        width: 24%;
+        margin: 1px auto;
+        font-weight: 1px;
+    }
+    #search input[type="button"]{
+        font-size: 20px;
+        margin-left: 5px;
+    }
+    #lateral input[type="text"]{
+        width: 190px;
+    }
+    #login input[type="submit"],
+#login input[type="button"],
+#login input[type="reset"],
+#login button{
+    width: 70px;
+    margin-left: 30px;
+}
+    #login a{
+        line-height: 30px;
+    }
+    #articles #cajita{
+        width: 62%;
+    }
+    #blog{
+        width: 62%;
+    }
+    #footer .wrap >div{
+        width: 20%;
+    }
+    #footer{
+        width: 1112px;
+    }
+    #footer h5{
+        font-size: 25px;
+    }
+}
+@media (max-width:1106px){
+    #articles .bloque p{
+        font-size: 17px;
+    }
+    #login input[type="submit"],
+    #login input[type="button"],
+    #login input[type="reset"],
+    #login button{
+        width: 65px;
+        margin-left: 50px;
+    }
+        #login a{
+            line-height: 30px;
+        }   
+        #search input[type="button"]{
+            font-size: 15px;
+            margin-left: 5px;
+        }
+        #lateral input[type="text"]{
+            width: 82%;
+        }
+        #footer{
+            width: 100%;
+        }
+}
+@media (max-width:1108px){
+    #articles .bloque{
+        width: 60%;
+    }
+    #blog{
+        width: 61%;
+    }
+    #footer{
+        width: 100%;
+    }
+     #footer .wrap >div{
+            width: 25%;
+            margin: 4%;
+    }
+}
+@media (max-width:799px){
+ #banner h1{
+     font-size: 28px;
+ }
+ .card{
+     height: auto;
+ }
+ .card .category{
+     font-size: 20px;
+ }
+ .card .description{
+     display: none;
+ }
+ #footer img{
+     margin-bottom: 15px;
+     max-width: 100%;
+ }
+}
+@media (max-width:724px){
+    #header{
+        height: 160px;
+        padding-top: 10px;
+    }
+    #titulo{
+        height: 82px;
+        display: block;
+        float: none;
+        width: 18%;
+        margin-left: 521px;
+        margin-top: 10px;
+    }
+    #nav ul{
+        clear: both;
+        width: 380px;
+        float: none;
+        display:block;
+        margin: 2px auto;
+    }
+    #nav ul li a{
+        font-size: 26px;
+    }
+    #articles .bloque p{
+        font-size: 17px;
+    }
+}
+@media (max-width:660px){
+    #header{
+  height: 250px;
+    }
+    #titulo .icons{
+        margin-top: 15px;
+        font-size: 50px;
+    }
+    #titulo p{
+      margin-top: 15px;
+      font-size: 60px;
+    }
+    #banner h1{
+        padding-bottom: 5px;
+        font-size: 35px;
+    }
+    #nav ul{
+        clear: both;
+        width: 100%;
+        float: none;
+        display:block;
+        margin: 30px auto;
+        text-align: center;
+        
+    }
+    #nav ul li a{
+        font-size: 45px;
+    }
+    #banner h1{
+        font-size: 25px;
+    }
+    #cards{
+        height: 200px;
+        padding-bottom: 200px;
+        float: none;
+        margin: 0px auto;
+        clear: both;
+
+    }
+    .card{
+        line-height: 200px;
+        height: 370px;
+    }
+    .card .iconxs{
+        line-height: 220px;
+    }
+    #articles #cajita{
+        float: none;
+        margin: 0px auto;
+        clear: both;
+        width: 92%;
+        margin-top: 20px;
+    }
+    #articles .bloque{
+        width: 90%;
+    }
+    #articles .bloque p{
+        font-size: 25px;
+    }
+    #lateral{
+        float: none;
+        margin: 0px auto;
+        clear: both;
+        width: 92%;
+        margin: 40px auto;    
+    }
+    #blog{
+        width: 92%;
+    }
+    #search{
+        height: 65px;
+    }
+    #search input[type="button"]{
+        font-size: 25px;
+        margin-left: 55px;
+        height: 65px;
+        padding-left: 20px;
+      
+
+    }
+    #lateral input[type="text"]{
+        width: 87%;
+        text-align: center;
+        height: 65px;
+    }
+    .asidebox{
+        padding-bottom:40px ;
+    }
+    #login input[type="email"],
+#login input[type="password"]{
+    height: 40px;
+}
+#login #user,
+#login #password{
+    height: 80px;
+}
+    #login input[type="submit"],
+    #login input[type="button"],
+    #login input[type="reset"],
+    #login button{
+        float: center;
+            width: 200px;
+            height: 70px;
+            line-height: 70px;
+            margin-left: 220px;
+            font-size: 25px;
+    }   
+    #login a{
+        line-height: 30px;
+    }
+    #lateral input[type="button"],
+#lateral input[type="submit"]{
+    float: none;
+}
+ #login a{
+     font-size: 20px;
+ }
+ #footer{
+     height: auto;
+     padding-bottom: 100px;
+ }
+ #footer .wrap >div{
+     width: 92%;
+     margin: px auto;
+ }
+ #footer h5{
+     font-size: 30px;
+ }
+}
+@media (max-width:540px){
+    #header{
+        height: 500px;
+    }
+    #titulo{
+        display: block;
+        float: none;
+        height: 110px;
+        line-height: 70px;
+     margin-left: 50px;
+        width: 450px;
+    }
+    #titulo .icons{
+        margin-top: 28px;
+        font-size: 60px;
+        margin-left: 100px;
+    }
+    #titulo p{
+        margin-left: 200px;
+      margin-top: 15px;
+      font-size: 70px;
+    }
+    #nav{
+       
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+    #nav ul li{
+     
+        width: 100%;
+        line-height: 50px;
+    }
+    #nav ul li a{
+        float: left;
+        font-size: 60px;
+    }
+    #banner h1{
+        padding-bottom: 5px;
+        font-size: 35px;
+    }
+    #cards{
+        padding-top: 15px;
+        margin-left: 15px;
+    }
+    .card{
+        margin: 0px auto;
+        margin-left: 29px;
+        width: 17%;
+    }
+    .card .iconxs{
+        font-size: 55px;
+    }
+    .card .category{
+        font-size: 25px;
+    }
+    aside h3{
+        padding-top: 35px;
+        margin-top: 100px;
+        height: 90px;
+        font-size: 45px;
+    }
+    #articles .bloque a{
+        margin-top: 60px;
+        font-size: 40px;
+    }
+    #articles .bloque p{
+        font-size: 40px;
+    }
+    #articles .data span{
+        clear: both;
+        width: 500px;
+        margin: -10;
+
+        padding: 130px;
+        border-radius: 0px 0px 0px 0px;
+        float: none;
+        font-size: 40px;
+        padding-top: 40px;
+   
+    }
+    #footer{
+        padding-bottom: 320px;
+    }
+    #footer h5{
+        padding-top: 20px;
+        height: 90px;
+        line-height: 78px;
+        font-size: 40px;
+    }
+    #footer ul li a{
+        font-size: 25px;
+    }
+    footer #info .copy{
+        font-size: 27px;
+    }
+}
+@media (max-width:510px){
+    #titulo .icons{
+        margin-top: 15px;
+        font-size: 50px;
+    }
+    #titulo p{
+      margin-top: 15px;
+      font-size: 60px;
+    }
+    #nav{
+       
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+    #nav ul li{
+     
+        width: 100%;
+        line-height: 50px;
+    }
+    #nav ul li a{
+        float: left;
+        font-size: 60px;
+    }
+    #banner h1{
+        padding-bottom: 5px;
+        font-size: 35px;
+    }
+    #cards{
+        padding-top: 15px;
+        margin-left: 15px;
+    }
+    .card{
+        margin: 0px auto;
+        margin-left: 29px;
+        width: 17%;
+    }
+    .card .iconxs{
+        font-size: 55px;
+    }
+    .card .category{
+        font-size: 25px;
+    }
+    aside h3{
+        padding-top: 35px;
+        margin-top: 100px;
+        height: 90px;
+        font-size: 45px;
+    }
+    #articles .bloque p{
+        font-size: 30px;
+    }
+    #articles .data span{
+        font-size: 25px;
+    }
+    #footer{
+        padding-bottom: 320px;
+    }
+    #footer h5{
+        padding-top: 20px;
+        height: 90px;
+        line-height: 78px;
+        font-size: 40px;
+    }
+    #footer ul li a{
+        font-size: 25px;
+    }
+    footer #info .copy{
+        font-size: 27px;
+    }
+}
